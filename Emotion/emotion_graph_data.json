@@ -1,90 +1,38 @@
 [
     {
         "emotion": "sadness",
-        "score": 0.9859245419502258
+        "score": 0.9917802214622498
     },
     {
-        "emotion": "fear",
-        "score": 0.9939436316490173
-    },
-    {
-        "emotion": "anger",
-        "score": 0.9869303703308105
-    },
-    {
-        "emotion": "fear",
-        "score": 0.4039441645145416
-    },
-    {
-        "emotion": "neutral",
-        "score": 0.442149817943573
+        "emotion": "sadness",
+        "score": 0.9940444827079773
     },
     {
         "emotion": "disgust",
-        "score": 0.7580225467681885
+        "score": 0.41536349058151245
     },
     {
-        "emotion": "sadness",
-        "score": 0.9860559701919556
+        "emotion": "anger",
+        "score": 0.9894333481788635
     },
     {
-        "emotion": "sadness",
-        "score": 0.44332489371299744
+        "emotion": "anger",
+        "score": 0.9894333481788635
+    },
+    {
+        "emotion": "joy",
+        "score": 0.9675107002258301
+    },
+    {
+        "emotion": "joy",
+        "score": 0.5826314091682434
+    },
+    {
+        "emotion": "disgust",
+        "score": 0.9171983599662781
     },
     {
         "emotion": "fear",
-        "score": 0.9916940331459045
-    },
-    {
-        "emotion": "anger",
-        "score": 0.9797612428665161
-    },
-    {
-        "emotion": "neutral",
-        "score": 0.5564678311347961
-    },
-    {
-        "emotion": "joy",
-        "score": 0.953978419303894
-    },
-    {
-        "emotion": "sadness",
-        "score": 0.940432071685791
-    },
-    {
-        "emotion": "sadness",
-        "score": 0.9593821167945862
-    },
-    {
-        "emotion": "anger",
-        "score": 0.9895623326301575
-    },
-    {
-        "emotion": "neutral",
-        "score": 0.5564678311347961
-    },
-    {
-        "emotion": "neutral",
-        "score": 0.5318052172660828
-    },
-    {
-        "emotion": "sadness",
-        "score": 0.940432071685791
-    },
-    {
-        "emotion": "joy",
-        "score": 0.8133613467216492
-    },
-    {
-        "emotion": "neutral",
-        "score": 0.5564678311347961
-    },
-    {
-        "emotion": "anger",
-        "score": 0.6789132952690125
-    },
-    {
-        "emotion": "anger",
-        "score": 0.7742780447006226
+        "score": 0.9953349232673645
     }
 ]

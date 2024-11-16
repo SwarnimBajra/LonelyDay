@@ -1,7 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 
-# File path
+# File path for emotion data
 graph_data_file = "emotion_graph_data.json"
 
 # Function to generate a graph based on saved emotions
@@ -33,11 +33,12 @@ def generate_graph():
         plt.tight_layout()
 
         # Save the graph as an image
-        plt.savefig("emotion_graph.png")
-        plt.show()
-        print("Graph generated successfully!")
+        graph_path = "emotion_graph.png"
+        plt.savefig(graph_path)
+        print(f"Graph generated successfully! Saved to {graph_path}.")
     except FileNotFoundError:
         print("No emotion data found to generate a graph.")
 
-# Call this function to generate the graph
-generate_graph()
+# Run the function for standalone testing
+if __name__ == "__main__":
+    generate_graph()
